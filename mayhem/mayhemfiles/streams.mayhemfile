@@ -1,0 +1,6 @@
+project: cpal
+target: streams
+duration: 300
+
+cmds:
+  - cmd: /streams
